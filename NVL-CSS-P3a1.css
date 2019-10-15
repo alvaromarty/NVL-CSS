@@ -1,0 +1,28 @@
+body{
+	background-color: black;
+	font-family: Arial;
+	size: 12px;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	text-decoration: underline yellow;
+}
+
+#p1{
+	color: red;
+}
+#p2{
+	color: green;
+}
+
+table{
+	border: 5px solid red;
+	background-color: white;
+	margin: auto;
+}
+
+tr:hover{
+	background-color: #f5f5f5;
+}
