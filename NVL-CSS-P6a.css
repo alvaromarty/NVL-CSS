@@ -1,0 +1,45 @@
+#primero {
+	background-color: #FFFFFF;
+}
+#segundo {
+	background-color: #E6E6E6;
+}
+#tercero {
+	background-color: #CCCCCC;
+}
+#cuarto {
+	background-color: #B3B3B3;
+}
+#quinto {
+	background-color: #999999;
+}
+#sexto {
+	background-color: #808080;
+	color: #FFFFFF;
+}
+#septimo {
+	background-color: #666666;
+	color: #FFFFFF;
+}
+#octavo {
+	background-color: #4C4C4C;
+	color: #FFFFFF;
+}
+#noveno {
+	background-color: #333333;
+	color: #FFFFFF;
+}
+#decimo {
+	background-color: #191919;
+	color: #FFFFFF;
+}
+
+img {
+  padding: 5px;
+  width: 50px;
+  height: 50px
+}
+
+#descrition{
+	font-style: oblique;
+}
