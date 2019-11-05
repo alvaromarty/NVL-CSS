@@ -1,0 +1,9 @@
+div > p {
+	border-width: 2px;
+	border-style: solid;
+	color: #fabada;
+}
+
+div + p {
+	font-style: oblique !important;
+}
